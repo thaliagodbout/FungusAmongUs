@@ -7,4 +7,6 @@ Four mushrooms sit in separate locations surrounding a mysterious Mycelium objec
 
 Requires 1x ESP32 board loaded with code for the Mycelium, and 4x ESP32 boards loaded with Mushroom code.
 
-Created by Thalia Godbout, Anne Vu, Josh Shillingford, and Joe Lawlor for Physical Computing 2 and the 2022 Digital Media end of year showcase ✨
+---
+
+Created by Thalia Godbout, Anne Vu, Josh Shillingford, and Joe Lawlor for Physical Computing 2 and featured in the 2022 Digital Media end of year showcase ✨
